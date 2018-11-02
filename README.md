@@ -14,3 +14,6 @@
 |64|Thu Nov  1 2018|
 |766|Thu Nov  1 2018|
 |643|Thu Nov  1 2018|
+|46|Fri Nov  2 2018|
+|859|Fri Nov  2 2018|
+|771|Fri Nov  2 2018|
