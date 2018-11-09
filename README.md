@@ -29,3 +29,6 @@
 |781|Thu Nov  8 2018|
 |400|Thu Nov  8 2018|
 |467|Thu Nov  8 2018|
+|770|Fri Nov  9 2018|
+|764|Fri Nov  9 2018|
+|95|Fri Nov  9 2018|
